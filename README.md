@@ -2,7 +2,7 @@
 
 ## Comands for launch project
 
-> lancer l'index dans le navigateur
+> https://paulcollas.github.io/double6/
 
 ## Goal
 Création d'une maquette pour le magasin de jeu Double 6 à Caen
